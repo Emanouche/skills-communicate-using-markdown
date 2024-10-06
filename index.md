@@ -3,3 +3,6 @@
 ``` java
 System.out.print(Helloooooooo!)
 ```
+- [ ] Read convoluted tutorial
+- [ ] Make sense of tutorial
+- [ ] Realize git hub needs better teachers
